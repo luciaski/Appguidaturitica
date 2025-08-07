@@ -1,0 +1,9 @@
+{
+  "name": "Guida Turistica AI",
+  "description": "Un'applicazione che funge da guida turistica virtuale, fornendo descrizioni dettagliate e suggerimenti basati sulla posizione per punti di interesse artistico e culturale. Esporta le guide in formati audio, PDF e DOCX.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "prompt": ""
+}
